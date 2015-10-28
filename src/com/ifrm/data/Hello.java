@@ -10,7 +10,9 @@ public class Hello {
 		this.hello = hello;
 	}
 	public static void main (String[] args){
-		System.out.println("Hello there tibi !");
+		Hello hh=new Hello();
+		hh.setHello("Buna ziua !");
+		System.out.println(hh.getHello());
 	}
 
 }
