@@ -12,6 +12,10 @@ public class Hello {
 	public static void main (String[] args){
 		Hello hh=new Hello();
 		hh.setHello("Buna ziua !");
+		
+		
+		
+		
 		System.out.println(hh.getHello());
 	}
 
