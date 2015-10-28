@@ -1,2 +1,2 @@
 # GitFundamentalsFromEclipse
-This is a project use to test git from eclipse
+This is a project used to test git from eclipse
