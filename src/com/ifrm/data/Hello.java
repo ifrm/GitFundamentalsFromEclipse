@@ -15,6 +15,7 @@ public class Hello {
 	}
 	public void setHello(String hello) {
 		this.hello = hello;
+		
 	}
 	public static void main (String[] args){
 		Hello hh=new Hello();
